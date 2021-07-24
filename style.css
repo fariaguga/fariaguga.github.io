@@ -1,0 +1,61 @@
+
+body{
+background-color:#F5FFFA;
+margin: 30px;
+}
+
+
+.titulo-principal{
+font-family: montserrat;
+font-weight: 700;
+color: #525252;
+} 
+
+.imagem-principal{
+border-radius: 20%;
+width: 400px;
+height: 530px;
+}
+
+
+.heading2{
+  font-family: montserrat;
+  color: #4b3c3c;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+
+p{
+font-family: montserrat;
+font-weight: 300;
+line-height: 1.45;
+font-size: 20px;
+}
+
+
+ul{
+font-family: montserrat;
+color: #4b3c3c;
+font-weight: 700;
+font-size: 29px;
+}
+
+
+.button-style:hover{
+
+  background-color:white;
+  border-radius: 20%;
+  font-weight: 700;
+  border:4px solid #4b3c3c;
+  font-size: 25px;
+}
+
+
+
+
+
+
+
+
+    
